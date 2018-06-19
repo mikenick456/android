@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Thian He\\Documents\\Android-APP\\HW7\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Thian He\\Documents\\Android-APP\\HW7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\computer structure\\android\\HW7\\HW7\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\computer structure\\android\\HW7\\HW7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thian He\\Documents\\Android-APP\\HW6\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Thian He\\Documents\\Android-APP\\HW6\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\computer structure\\android\\Android-APP-hw7\\HW7\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\computer structure\\android\\Android-APP-hw7\\HW7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
