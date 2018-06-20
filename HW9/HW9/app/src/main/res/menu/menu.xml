@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/background_music"
+        android:title="@string/background_music">
+        <!-- "file" submenu -->
+        <menu>
+            <item
+                android:id="@+id/play_background_music"
+                android:title="@string/play_background_music" />
+            <item
+                android:id="@+id/stop_play_background_music"
+                android:title="@string/stop_background_music" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/about_this_app"
+        android:title="@string/about_this_app" />
+
+    <item
+        android:id="@+id/over"
+        android:title="@string/exit" />
+</menu>
